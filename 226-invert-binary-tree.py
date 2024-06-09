@@ -1,4 +1,6 @@
 # 226. Invert Binary Tree
+# Difficulty: Easy
+# Source: https://leetcode.com/problems/invert-binary-tree
 
 import unittest
 

@@ -1,4 +1,6 @@
 # 1672. Richest Customer Wealth
+# Difficulty: Easy
+# Source: https://leetcode.com/problems/richest-customer-wealth/
 
 from typing import List
 import unittest
