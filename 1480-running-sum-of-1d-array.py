@@ -12,6 +12,9 @@ def running_sum(nums: List[int]) -> List[int]:
 
     return nums
 
+# Time complexity: O(n)
+# Space complexity: O(1)
+
 
 class TestRunningSum(unittest.TestCase):
     def test_running_sum(self):
