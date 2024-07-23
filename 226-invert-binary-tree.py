@@ -1,4 +1,4 @@
-# 226. Invert Binary Tree
+# Problem: 226. Invert Binary Tree
 # Difficulty: Easy
 # Source: https://leetcode.com/problems/invert-binary-tree
 
